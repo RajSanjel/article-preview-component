@@ -184,7 +184,6 @@ body {
         place-items: center;
         justify-content: start;
         padding-left: 30px;
-        transition: all 10s ease-in-out;
     }
 
     .share {

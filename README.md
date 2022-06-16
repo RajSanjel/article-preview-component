@@ -5,5 +5,5 @@ This is a solution to the [Article Preview Componenet challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Go to solution site.](https://www.frontendmentor.io/solutions/qr-code-component-YhypvVxeiX)
+- Solution URL: [Go to solution site.](https://www.frontendmentor.io/solutions/fully-responsive-articlepreviewcomponent-RFRNz2KrW7)
 - Live Site URL: [Go to site.](https://rajsanjel.github.io/article-preview-component/)
